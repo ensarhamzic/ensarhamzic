@@ -12,11 +12,13 @@ I take great pride in being a good team player and collaborating effectively wit
 
 Here's an overview of my technical skills and the technologies I work with:
 
-- 💻 ASP.NET
+- 💻 .NET
 - 🚀 JavaScript
 - ⚛️ React.js
 - 🅰️ Angular.js
 - ☕ Java Spring Boot
+- 📗 Node.js
+- 🗄️ SQL and NoSQL
 - 🌐 APIs (REST, GraphQL)
 
 I continuously strive to expand my skill set and stay up to date with the latest industry trends. I am committed to writing clean, efficient, and maintainable code, following best practices and industry standards.
