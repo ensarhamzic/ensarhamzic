@@ -18,6 +18,7 @@ Here's an overview of my technical skills and the technologies I work with:
 - 🅰️ Angular.js
 - ☕ Java Spring Boot
 - 📗 Node.js
+- 📱 React Native
 - 🗄️ SQL and NoSQL
 - 🌐 APIs (REST, GraphQL)
 
