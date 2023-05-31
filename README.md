@@ -25,12 +25,9 @@ I continuously strive to expand my skill set and stay up to date with the latest
 
 Take a look at some of the projects I have worked on:
 
-1. [Artifial intelligence project](https://artificial-intelligence-366f5.web.app/) - A brief description of the project and your role in it. |
-  [Frontend](https://github.com/ensarhamzic/artificial-intelligence-client) |
-  [Backend](https://github.com/ensarhamzic/artificial-intelligence-backend)
-  
-2. Hackathon 2022 AI & GIS Project - A brief description of the project and your role in it. | [Frontend](https://github.com/tarikibrahimovic/Geo-Collector) | [Backend](https://github.com/tarikibrahimovic/Geo-CollectorAPI)
-3. Binary Tree Visualization, Desktop App - A brief description of the project and your role in it. | [Project](https://github.com/ensarhamzic/BinaryTreeProject)
+1. [Artifial intelligence project](https://artificial-intelligence-366f5.web.app/) - Project for my Artificial Intelligence class, done with Python, Django and React.js [read more](https://github.com/ensarhamzic/artificial-intelligence-client/blob/master/README.md) | [Frontend](https://github.com/ensarhamzic/artificial-intelligence-client) | [Backend](https://github.com/ensarhamzic/artificial-intelligence-backend)
+2. Hackathon 2022 AI & GIS Project - Project for Hackathon that won 1st place [read more](https://github.com/tarikibrahimovic/Geo-Collector/blob/main/README.md) | [Frontend](https://github.com/tarikibrahimovic/Geo-Collector) | [Backend](https://github.com/tarikibrahimovic/Geo-CollectorAPI)
+3. Binary Tree Visualization - Windows application that helps students learn binary tree data structure by visualizing it [read more](https://github.com/ensarhamzic/BinaryTreeProject/blob/master/README.md) | [Project](https://github.com/ensarhamzic/BinaryTreeProject)
 
 Feel free to explore these projects and provide feedback. I'm always excited to hear suggestions and improve my work.
 
