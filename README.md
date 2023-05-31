@@ -17,7 +17,7 @@ Here's an overview of my technical skills and the technologies I work with:
 - ⚛️ React.js
 - 🅰️ Angular.js
 - ☕ Java Spring Boot
-- - 🌐 APIs (REST, GraphQL)
+- 🌐 APIs (REST, GraphQL)
 
 I continuously strive to expand my skill set and stay up to date with the latest industry trends. I am committed to writing clean, efficient, and maintainable code, following best practices and industry standards.
 
