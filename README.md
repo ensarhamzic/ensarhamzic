@@ -32,7 +32,7 @@ Take a look at some of the projects I have worked on:
 2. Hackathon 2022 AI & GIS Project - Project for Hackathon that won 1st place [read more](https://github.com/tarikibrahimovic/Geo-Collector/blob/main/README.md) | [Frontend](https://github.com/tarikibrahimovic/Geo-Collector) | [Backend](https://github.com/tarikibrahimovic/Geo-CollectorAPI)
 3. Binary Tree Visualization - Windows application that helps students learn binary tree data structure and Huffman code by visualizing it [read more](https://github.com/ensarhamzic/BinaryTreeProject/blob/master/README.md) | [Project](https://github.com/ensarhamzic/BinaryTreeProject)
 
-Feel free to explore these projects and provide feedback. I'm always excited to hear suggestions and improve my work.
+Feel free to explore these and a lot of other projects on my github, and provide feedback. I'm always excited to hear suggestions and improve my work.
 
 ## Contact Me
 
