@@ -12,11 +12,11 @@ I take great pride in being a good team player and collaborating effectively wit
 
 Here's an overview of my technical skills and the technologies I work with:
 
+- ☕ Java Spring Boot
+- 🅰️ Angular.js
 - 💻 .NET (ASP.NET, .NET Core, Web APIs, WPF)
 - 🚀 JavaScript
 - ⚛️ React.js
-- 🅰️ Angular.js
-- ☕ Java Spring Boot
 - 📗 Node.js
 - 📱 React Native
 - 🗄️ SQL and NoSQL (MySQL, PostgreSQL, SQLServer, MongoDB)
