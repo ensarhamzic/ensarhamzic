@@ -39,7 +39,7 @@ Feel free to explore these and a lot of other projects on my github, and provide
 
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to me. You can connect with me through the following channels:
 
-- 📧 Email: ensarhamzic01@gmail.com
+- 📧 Email: ensar@hamzic.me
 - 💼 LinkedIn: [ensar-hamzic](https://www.linkedin.com/in/ensar-hamzic)
 
 Thank you for visiting my GitHub repository! I look forward to connecting with you and collaborating on exciting projects. Let's make a positive impact through innovative software development! 👨‍💻
